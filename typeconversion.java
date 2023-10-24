@@ -1,0 +1,14 @@
+
+
+public class typeconversion {
+    public static void main (String args[]){
+      // Scanner sc = new Scanner(System.in);
+       // int a = sc.nextInt();
+       // int b = sc.nextInt();
+        //int sum = a*b;
+        float side = 8.14f;
+        int i = (int) side;
+        System.out.println(i);
+    }
+    
+}
